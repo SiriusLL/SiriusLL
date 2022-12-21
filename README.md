@@ -1,2 +1,2 @@
 
-![Snake animation](https://github.com/siriusll/siriusll/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/siriusll/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
